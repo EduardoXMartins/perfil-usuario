@@ -1,5 +1,6 @@
 <script setup>
 import { defineProps } from 'vue';
+// Aqui as props são definidas
 defineProps(["nome", "periodo", "curso"])
 
 </script>
